@@ -45,7 +45,7 @@ This project was created as part of a class assignment to demonstrate the use of
 - Project completed and functioning as expected.
 - Demonstrates key Android development concepts.
 
-## the sorce code where we pushed
+## The sorce code location
 
 - This is the sorce code locatoin in github that we pushed in github
   https://github.com/mntc3434/News-App
