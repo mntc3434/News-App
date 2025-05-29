@@ -54,7 +54,7 @@ This project was created as part of a class assignment to demonstrate the use of
 
 Name
 - 1.Mentesiont Getu.................... 3393/14
-- 2.Medan Zelalem ..................... 3345/14
+
 
 
 
