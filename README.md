@@ -57,4 +57,4 @@ Name
 - 2.Medan Zelalem ..................... 3345/14
 - 3.Mebit Melak ....................... 3343/14
 - 4.Mikiyas Dereje .................... 3449/14
-- 5.Getayawkal Abdureman .............. 3034/14
+
